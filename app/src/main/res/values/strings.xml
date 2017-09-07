@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentCodeToArt</string>
+    <string name="created_by">Created By</string>
+    <string name="created_by_name">Rohit Bhalchandra Chindarkar</string>
+    <string name="overview">Overview:</string>
+    <string name="movie_name">Movie Name:</string>
+    <string name="rating_text">Rating</string>
+    <string name="created_by_toolbar_lable">Created By</string>
+    <string name="movie_list_toolbar_lable">Movie List</string>
+    <string name="movie_details_toolbar_lable">Movie Details</string>
+</resources>
